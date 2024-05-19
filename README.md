@@ -42,4 +42,4 @@ Feel free to explore each folder to understand the implementations and methodolo
 
 ## Additional Resources
 
-For more information or inquiries, please contact [Project Owner](mailto:saumay123sj@gmail.com).
+For more information or inquiries, please contact Saumay Jaiswal(mailto:saumay123sj@gmail.com).
